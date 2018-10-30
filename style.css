@@ -27,7 +27,7 @@ ul li {
 
 ul li:hover,
 ul li:hover ~ li {
-    transform: rotate(90deg) translateX(-200px);
+    transform: translateY(-400px);
     transition: 2.0s;
     cursor: pointer;
     filter: blur(30px);
